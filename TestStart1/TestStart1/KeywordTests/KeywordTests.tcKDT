@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="RegressionSuite">
+			<child name="Spype_Install" key="{D73152A4-BC74-4054-A26E-FFDBA9E41419}" path="Spype_Install.tcKDTest" />
+		</folder>
+		<folder name="ResuseableFunctions" />
+		<child name="Test1" key="{B886E604-736C-42B9-8E3E-138AEC0DAFAF}" path="Test1.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{17B6E1E1-813B-45B5-8AD7-5C8AE0FBB720}">
+				<TypeInfo Item0="{53330D0F-7CC8-4833-BCED-B2E872BF263B}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="npp" Key="{CDAB4684-FE75-43AF-BA8E-0BFC77E2BF24}">
+						<TypeInfo Item0="{35DC2AAF-6F5C-4025-9348-91271630E576}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="npp" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgInstallerLanguage" Key="{F58879AD-EF8E-489C-B59D-C7DA18334DEA}">
+								<Image FileName="-213031493" Left="0" Top="0" Right="438" Bottom="228" />
+								<TypeInfo Item0="{82C86A27-308D-46BE-83DD-47B92244B753}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Installer Language" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnOK" Key="{87C660AE-FE84-408C-AF2D-4DAA0F37327A}">
+										<Image FileName="-213031493" Left="172" Top="177" Right="285" Bottom="210" />
+										<TypeInfo Item0="{A3301CD6-E0E4-4307-8C54-AA2D010DBC04}" />
+										<Properties>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+											<Property Name="Name">
+												<Value Value="Window(&quot;Button&quot;, &quot;OK&quot;, 1)" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgNotepadV867Setup" Key="{8480BE19-0A04-414C-B13A-FC74C2178267}">
+								<TypeInfo Item0="{82C86A27-308D-46BE-83DD-47B92244B753}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Notepad++ v8.6.7 Setup " />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnNext" Key="{6FC407D9-F43F-4671-B4A2-3B7CAF10D7ED}">
+										<Image FileName="-146032671" Left="489" Top="514" Right="602" Bottom="547" />
+										<TypeInfo Item0="{A3301CD6-E0E4-4307-8C54-AA2D010DBC04}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Next &gt;" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btn_Agree" Key="{8FDE8F3A-D32D-4FB5-8656-92A626D145A2}">
+										<Image FileName="227489834" Left="489" Top="514" Right="602" Bottom="547" />
+										<TypeInfo Item0="{A3301CD6-E0E4-4307-8C54-AA2D010DBC04}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="I &amp;Agree" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgNotepadV867Setup2" Key="{D6B7D15E-FC4B-48F0-8473-913BEA37DC29}" ExtendedFind="True">
+								<TypeInfo Item0="{82C86A27-308D-46BE-83DD-47B92244B753}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Notepad++ v8.6.7 Setup" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="install_Page" Key="{506E1613-0391-40A2-A5C5-C424938AE897}">
+										<Image FileName="1144874707" Left="37" Top="144" Right="712" Bottom="477" />
+										<TypeInfo Item0="{183CF633-BDBE-4564-810C-DB6C22333AE3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="#32770" />
+											</Property>
+											<Property Name="Name">
+												<Value Value="Window(&quot;#32770&quot;, &quot;&quot;, 1)" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="check_box" Key="{02527ED6-D64F-4B69-8F38-71DF48714C02}">
+												<Image FileName="-1076011947" Left="37" Top="144" Right="712" Bottom="215" />
+												<TypeInfo Item0="{60954622-452F-4BA4-AB3E-664DA9C9D86C}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Create Shortcut on Desktop" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Skype_8_122_0_205" Key="{538CC684-FF47-4ED7-BBB6-7A5B87C2C408}">
+						<TypeInfo Item0="{35DC2AAF-6F5C-4025-9348-91271630E576}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Skype-8.122.0.205" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="2" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="WizardForm" Key="{1B16400C-8A6B-4DE2-9F9A-7E1EAB91A475}">
+								<Image FileName="1345687286" Left="0" Top="0" Right="752" Bottom="566" />
+								<TypeInfo Item0="{3559AFDB-149B-479B-B56E-971FDC26EA67}" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TWizardForm" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="WizardForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="NextButton" Key="{41091859-B6FC-4F88-8220-FAB3FAD8EF71}">
+										<Image FileName="1345687286" Left="493" Top="515" Right="606" Bottom="549" />
+										<TypeInfo Item0="{2AFB597C-C75D-499C-A69C-0CEC4E9DF88D}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TNewButton" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="&amp;Install" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Skype" Key="{E8BB82E3-BC1D-4233-AE2F-E36F5F5E4AA1}">
+						<TypeInfo Item0="{35DC2AAF-6F5C-4025-9348-91271630E576}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Skype" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Skype" Key="{3F817CB5-59A4-4BD3-A73B-332052D50487}">
+								<Image FileName="71088168" Left="0" Top="0" Right="690" Bottom="990" />
+								<TypeInfo Item0="{1D88DAA8-29FF-4863-8F62-97A993245DEE}" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="Win32" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="pane" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Skype" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Skype" Key="{31ADB86E-E0F3-4557-BB8D-1F3D52D6840E}">
+										<Image FileName="71088168" Left="3" Top="37" Right="687" Bottom="988" />
+										<TypeInfo Item0="{65F267A4-B45B-4476-AD94-13FA02656552}" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="document" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Skype" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="grouping" Key="{8C32BFF9-B20B-45CC-994B-4FCFAEA80F29}">
+												<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+												<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Grouping" />
+													</Property>
+													<Property Name="ControlIndex">
+														<Value Value="0" Type="0" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="grouping" Key="{C9BA7B5C-D6CC-471F-A0C4-B5633CFEC668}">
+														<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+														<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Grouping" />
+															</Property>
+															<Property Name="ControlIndex">
+																<Value Value="0" Type="0" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="grouping" Key="{EF194EA5-EB0D-410E-B10B-EDE2B1DDC954}">
+																<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+																<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Grouping" />
+																	</Property>
+																	<Property Name="ControlIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="grouping" Key="{B24DAE3F-03D1-4C8A-B410-A7C5C90AEF86}">
+																		<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+																		<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Grouping" />
+																			</Property>
+																			<Property Name="ControlIndex">
+																				<Value Value="0" Type="0" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="grouping" Key="{C26590FB-B6E7-4D68-B41B-76062278ECD4}">
+																				<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+																				<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Grouping" />
+																					</Property>
+																					<Property Name="ControlIndex">
+																						<Value Value="0" Type="0" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="grouping" Key="{39AF6EE5-4FF3-4699-BFF0-B282374FFC53}">
+																						<Image FileName="71088168" Left="3" Top="36" Right="687" Bottom="987" />
+																						<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Grouping" />
+																							</Property>
+																							<Property Name="ControlIndex">
+																								<Value Value="0" Type="0" />
+																							</Property>
+																							<Property Name="ObjectGroupIndex">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="grouping" Key="{1F0F72BA-4C4E-4916-96B1-260A030BA049}">
+																								<Image FileName="71088168" Left="27" Top="60" Right="663" Bottom="963" />
+																								<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Grouping" />
+																									</Property>
+																									<Property Name="ControlIndex">
+																										<Value Value="0" Type="0" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="grouping" Key="{2647D746-B03D-4114-B110-9C0626D8AD22}">
+																										<Image FileName="71088168" Left="27" Top="60" Right="663" Bottom="963" />
+																										<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Grouping" />
+																											</Property>
+																											<Property Name="ControlIndex">
+																												<Value Value="0" Type="0" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="grouping" Key="{AFE25674-D83B-4EBF-9F12-A9E16A526748}">
+																												<Image FileName="71088168" Left="27" Top="60" Right="663" Bottom="963" />
+																												<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Grouping" />
+																													</Property>
+																													<Property Name="ControlIndex">
+																														<Value Value="0" Type="0" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="grouping" Key="{DC228682-C7C0-4FF4-AD8C-CDF20A90B362}">
+																														<Image FileName="71088168" Left="78" Top="60" Right="612" Bottom="963" />
+																														<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Grouping" />
+																															</Property>
+																															<Property Name="ControlIndex">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																															<Property Name="ObjectGroupIndex">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="grouping" Key="{5FD6185F-1A18-4F77-AB6C-10FF16DA36C9}">
+																																<Image FileName="71088168" Left="102" Top="84" Right="588" Bottom="939" />
+																																<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="Grouping" />
+																																	</Property>
+																																	<Property Name="ControlIndex">
+																																		<Value Value="0" Type="0" />
+																																	</Property>
+																																	<Property Name="ObjectGroupIndex">
+																																		<Value Value="1" Type="0" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="buttonNoAccountCreateOne" Key="{C20F1762-1C7F-49CA-A50B-9609F66F7DC2}">
+																																		<Image FileName="71088168" Left="222" Top="674" Right="468" Bottom="705" />
+																																		<TypeInfo Item0="{02FAFD7C-C45E-4026-BD5D-25B5C598F748}" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="Button" />
+																																			</Property>
+																																			<Property Name="Caption">
+																																				<Value Value="No account? Create one!" />
+																																			</Property>
+																																			<Property Name="ObjectGroupIndex">
+																																				<Value Value="1" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Skype2" Key="{60ED0D64-DA3D-4CFF-BA52-C0BE580D2018}">
+										<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+										<TypeInfo Item0="{9C7FD9D5-4471-4508-98CC-8252048E9128}" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="Win32" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="document" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Chrome_Legacy_Window" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="grouping" Key="{E816BB8D-7C37-4884-BF04-2404B0E1252B}">
+												<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+												<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Grouping" />
+													</Property>
+													<Property Name="ControlIndex">
+														<Value Value="0" Type="0" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="grouping" Key="{F8ECC20B-D983-4094-832B-3894A6E524BB}">
+														<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+														<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Grouping" />
+															</Property>
+															<Property Name="ControlIndex">
+																<Value Value="0" Type="0" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="grouping" Key="{1EB341E4-3DF4-436D-808D-48F2CAC1EA2F}">
+																<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Grouping" />
+																	</Property>
+																	<Property Name="ControlIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="grouping" Key="{17C3D816-077E-41BC-ABDD-BD1C1E35608C}">
+																		<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																		<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Grouping" />
+																			</Property>
+																			<Property Name="ControlIndex">
+																				<Value Value="0" Type="0" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="grouping" Key="{23C2D7CC-042D-407D-B7EF-EC9BB490DE67}">
+																				<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																				<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Grouping" />
+																					</Property>
+																					<Property Name="ControlIndex">
+																						<Value Value="0" Type="0" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="grouping" Key="{F460FBC8-98E4-4971-885A-8F8314F182FC}">
+																						<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																						<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Grouping" />
+																							</Property>
+																							<Property Name="ControlIndex">
+																								<Value Value="0" Type="0" />
+																							</Property>
+																							<Property Name="ObjectGroupIndex">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="grouping" Key="{7BFF04C4-4853-44EA-A710-B866D6F15BF4}">
+																								<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																								<TypeInfo Item0="{C70A6F74-ADAF-43A7-BE15-961D85217B65}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Grouping" />
+																									</Property>
+																									<Property Name="ControlIndex">
+																										<Value Value="0" Type="0" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="document" Key="{DD10B76B-B424-43DE-BB02-1AD9D7ECC954}">
+																										<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																										<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Document" />
+																											</Property>
+																											<Property Name="ControlIndex">
+																												<Value Value="0" Type="0" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="documentCreateAccount" Key="{AB1BC51E-AC82-4CDB-9B1A-1594A3DA035F}">
+																												<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																												<TypeInfo Item0="{C70A6F74-ADAF-43A7-BE15-961D85217B65}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Document" />
+																													</Property>
+																													<Property Name="Caption">
+																														<Value Value="Create account" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="grouping" Key="{DF6BDD7D-2B7B-4957-ADA8-42CF51207FE8}">
+																														<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="39" />
+																														<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Grouping" />
+																															</Property>
+																															<Property Name="ControlIndex">
+																																<Value Value="0" Type="0" />
+																															</Property>
+																															<Property Name="ObjectGroupIndex">
+																																<Value Value="1" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="grouping" Key="{D2AC98C4-23CA-491B-9B20-01D84622D5FA}">
+																																<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																																<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="Grouping" />
+																																	</Property>
+																																	<Property Name="ControlIndex">
+																																		<Value Value="0" Type="0" />
+																																	</Property>
+																																	<Property Name="ObjectGroupIndex">
+																																		<Value Value="1" Type="0" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="grouping" Key="{885C7642-9ACE-46B1-B4BD-C2A52BA56162}">
+																																		<Image FileName="989433523" Left="3" Top="37" Right="687" Bottom="988" />
+																																		<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value Value="Grouping" />
+																																			</Property>
+																																			<Property Name="ControlIndex">
+																																				<Value Value="0" Type="0" />
+																																			</Property>
+																																			<Property Name="ObjectGroupIndex">
+																																				<Value Value="1" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="grouping" Key="{CB9736F7-B163-4140-AE54-78E8890EE537}">
+																																				<Image FileName="989433523" Left="15" Top="37" Right="675" Bottom="544" />
+																																				<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value Value="Grouping" />
+																																					</Property>
+																																					<Property Name="ControlIndex">
+																																						<Value Value="0" Type="0" />
+																																					</Property>
+																																					<Property Name="ObjectGroupIndex">
+																																						<Value Value="1" Type="0" />
+																																					</Property>
+																																				</Properties>
+																																				<Children>
+																																					<Child Name="grouping" Key="{DC63DD0F-A67A-4D50-BE6F-840DD5E388E4}">
+																																						<Image FileName="989433523" Left="51" Top="139" Right="639" Bottom="448" />
+																																						<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																						<Properties>
+																																							<Property Name="ObjectType">
+																																								<Value Value="Grouping" />
+																																							</Property>
+																																							<Property Name="ControlIndex">
+																																								<Value Value="2" Type="0" />
+																																							</Property>
+																																							<Property Name="ObjectGroupIndex">
+																																								<Value Value="1" Type="0" />
+																																							</Property>
+																																						</Properties>
+																																						<Children>
+																																							<Child Name="grouping" Key="{D930FCC9-4D1A-4678-BFCC-390AC306B8DB}">
+																																								<Image FileName="989433523" Left="51" Top="139" Right="639" Bottom="448" />
+																																								<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																								<Properties>
+																																									<Property Name="ObjectType">
+																																										<Value Value="Grouping" />
+																																									</Property>
+																																									<Property Name="ControlIndex">
+																																										<Value Value="0" Type="0" />
+																																									</Property>
+																																									<Property Name="ObjectGroupIndex">
+																																										<Value Value="1" Type="0" />
+																																									</Property>
+																																								</Properties>
+																																								<Children>
+																																									<Child Name="grouping" Key="{3C2F4A2A-4C05-428A-A826-234B302D344D}">
+																																										<Image FileName="989433523" Left="51" Top="139" Right="639" Bottom="393" />
+																																										<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																										<Properties>
+																																											<Property Name="ObjectType">
+																																												<Value Value="Grouping" />
+																																											</Property>
+																																											<Property Name="ControlIndex">
+																																												<Value Value="0" Type="0" />
+																																											</Property>
+																																											<Property Name="ObjectGroupIndex">
+																																												<Value Value="1" Type="0" />
+																																											</Property>
+																																										</Properties>
+																																										<Children>
+																																											<Child Name="grouping" Key="{B5BB2E74-B189-45ED-887A-DC3DF205FF7F}">
+																																												<Image FileName="989433523" Left="51" Top="200" Right="639" Bottom="307" />
+																																												<TypeInfo Item0="{FA2119D6-AA21-44B5-943E-D1A3EF70AD06}" />
+																																												<Properties>
+																																													<Property Name="ObjectType">
+																																														<Value Value="Grouping" />
+																																													</Property>
+																																													<Property Name="ControlIndex">
+																																														<Value Value="3" Type="0" />
+																																													</Property>
+																																													<Property Name="ObjectGroupIndex">
+																																														<Value Value="1" Type="0" />
+																																													</Property>
+																																												</Properties>
+																																												<Children>
+																																													<Child Name="buttonUseYourEmailInstead" Key="{8BA7867D-62AB-470F-8837-111629E497C0}">
+																																														<Image FileName="989433523" Left="51" Top="279" Right="247" Bottom="305" />
+																																														<TypeInfo Item0="{02FAFD7C-C45E-4026-BD5D-25B5C598F748}" />
+																																														<Properties>
+																																															<Property Name="ObjectType">
+																																																<Value Value="Button" />
+																																															</Property>
+																																															<Property Name="Caption">
+																																																<Value Value="Use your email instead" />
+																																															</Property>
+																																															<Property Name="ObjectGroupIndex">
+																																																<Value Value="1" Type="0" />
+																																															</Property>
+																																														</Properties>
+																																													</Child>
+																																												</Children>
+																																											</Child>
+																																										</Children>
+																																									</Child>
+																																								</Children>
+																																							</Child>
+																																						</Children>
+																																					</Child>
+																																				</Children>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pane" Key="{76D5D561-1E62-414A-8618-FD39C7E81AB1}">
+								<TypeInfo Item0="{88118152-F7F4-49F7-ABB3-3AB31B827E4C}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="documentWhatSYourBirthdate" Key="{7AA70659-EAEB-4758-8533-5919FE289967}">
+										<TypeInfo Item0="{B304BD55-9AA4-4B8E-9B85-DB5173FE591B}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Document" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="What&apos;s your birthdate?" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="npp" Owner="{CDAB4684-FE75-43AF-BA8E-0BFC77E2BF24}">
+			<Child Name="dlgInstallerLanguage" Owner="{F58879AD-EF8E-489C-B59D-C7DA18334DEA}">
+				<Child Name="btn_OK" Owner="{87C660AE-FE84-408C-AF2D-4DAA0F37327A}" />
+			</Child>
+			<Child Name="notepad_Setup" Owner="{8480BE19-0A04-414C-B13A-FC74C2178267}">
+				<Child Name="btnNext" Owner="{6FC407D9-F43F-4671-B4A2-3B7CAF10D7ED}" />
+				<Child Name="btn_Agree" Owner="{8FDE8F3A-D32D-4FB5-8656-92A626D145A2}" />
+			</Child>
+			<Child Name="dlgNotepadV867Setup2" Owner="{D6B7D15E-FC4B-48F0-8473-913BEA37DC29}">
+				<Child Name="install_Page" Owner="{506E1613-0391-40A2-A5C5-C424938AE897}">
+					<Child Name="check_box" Owner="{02527ED6-D64F-4B69-8F38-71DF48714C02}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="Skype_Install" Owner="{538CC684-FF47-4ED7-BBB6-7A5B87C2C408}">
+			<Child Name="Install_Window" Owner="{1B16400C-8A6B-4DE2-9F9A-7E1EAB91A475}">
+				<Child Name="Btn_Install" Owner="{41091859-B6FC-4F88-8220-FAB3FAD8EF71}" />
+			</Child>
+		</Child>
+		<Child Name="Skype" Owner="{E8BB82E3-BC1D-4233-AE2F-E36F5F5E4AA1}">
+			<Child Name="Btn_NoAccountCreateone" Owner="{C20F1762-1C7F-49CA-A50B-9609F66F7DC2}" />
+			<Child Name="Skype2" Owner="{60ED0D64-DA3D-4CFF-BA52-C0BE580D2018}">
+				<Child Name="grouping" Owner="{E816BB8D-7C37-4884-BF04-2404B0E1252B}">
+					<Child Name="grouping" Owner="{F8ECC20B-D983-4094-832B-3894A6E524BB}">
+						<Child Name="grouping" Owner="{1EB341E4-3DF4-436D-808D-48F2CAC1EA2F}">
+							<Child Name="grouping" Owner="{17C3D816-077E-41BC-ABDD-BD1C1E35608C}">
+								<Child Name="grouping" Owner="{23C2D7CC-042D-407D-B7EF-EC9BB490DE67}">
+									<Child Name="grouping" Owner="{F460FBC8-98E4-4971-885A-8F8314F182FC}">
+										<Child Name="grouping" Owner="{7BFF04C4-4853-44EA-A710-B866D6F15BF4}">
+											<Child Name="document" Owner="{DD10B76B-B424-43DE-BB02-1AD9D7ECC954}">
+												<Child Name="documentCreateAccount" Owner="{AB1BC51E-AC82-4CDB-9B1A-1594A3DA035F}">
+													<Child Name="grouping" Owner="{DF6BDD7D-2B7B-4957-ADA8-42CF51207FE8}">
+														<Child Name="grouping" Owner="{D2AC98C4-23CA-491B-9B20-01D84622D5FA}">
+															<Child Name="grouping" Owner="{885C7642-9ACE-46B1-B4BD-C2A52BA56162}">
+																<Child Name="grouping" Owner="{CB9736F7-B163-4140-AE54-78E8890EE537}">
+																	<Child Name="grouping" Owner="{DC63DD0F-A67A-4D50-BE6F-840DD5E388E4}">
+																		<Child Name="grouping" Owner="{D930FCC9-4D1A-4678-BFCC-390AC306B8DB}">
+																			<Child Name="grouping" Owner="{3C2F4A2A-4C05-428A-A826-234B302D344D}">
+																				<Child Name="grouping" Owner="{B5BB2E74-B189-45ED-887A-DC3DF205FF7F}" />
+																			</Child>
+																		</Child>
+																	</Child>
+																</Child>
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="buttonUseYourEmailInstead" Owner="{8BA7867D-62AB-470F-8837-111629E497C0}" />
+			</Child>
+			<Child Name="pane" Owner="{76D5D561-1E62-414A-8618-FD39C7E81AB1}">
+				<Child Name="documentWhatSYourBirthdate" Owner="{7AA70659-EAEB-4758-8533-5919FE289967}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{B0BDF9F7-0721-4772-AB97-0A32370EF42C}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Skype" Data="61717A697000000001000000360900007801CD954D48545114C79D51A916B509A45A845F3542115820AE2A6A559010D5A65541CB6A13ADDD44C4149204A6D5A6B2EC438821222A2841280AFA9C4930C5A849499D71B437CE38E3CC3BDDDFE81DAE6F9E8A6EEAC19BFB75DEFFDC73CEFF7F66CF81BA5545B9A74EFDD6A877DDECEB292A5733F5CC9ECF2CFEDFDF2D1B57D49F3F5E16E8BE5831146EF7A5822D55836DA737746CAD5859BB945B9796784A1BEAD71C693DB9FECE9BA6CADE819B3EEBA7C20BDFDA6C7FBBB149DE3557C92B7FB904AF56CB70874F86DA6BD2670FAF6D2CF67A8A17F3B3BF6EF5C1B797ABFA47EED5C8426FF8B64FF9A914E55F06DB7D395B7CCC87EFF57ABC8D47CBFC0B61BA9D855AABA54BC5820FE2982F57CBC1D6FEF0411CE48A7A38632027DA568F63CF0E49A2FFBE4CC77A25931896743428C98147127B79CC356FE48A7A5073139F5A3AF33DDAB943EC4C4AF4934D46C59E4EE496B66DCBC4EB33053EA807358757263E3CD17736C744DF5D99EC6993C8E3BD33580FB6C954F845CEC7F4785F013EDFC22BB86BE2C3411377A1793CD492C3271E373BB88B3E4C7CF8ED663B67EF61AD589F2EE57336157EEE8A8F3ED0A0898F76E66019BC1FEDDC2EF12FCD929D8AE9524826FE4B2281DDAEF868D0C466CE9E1B7EF469836493913C6E363521F1E015A1F66EF6EC7157139F5888C9CD3E63FD98C975EA8F58EFCFC9888AC5CDCEDC23D7263EB5A026A60DF3486067FEDEE3DDA70ACE9DF67A0D574C7CB804A7F4B91EC9BBE6FF64CF351951F5E52CFA649F581F2E28FFBB0ABEE11CAE9BF86821A709A50D8DAD47EB73533E063B9B96ACCA937EAC8FFE027B348A564D7CB48CA6D1B6C635C758D709497E0F487AECAB64267FAB1E11529ABBEE5A637A8C89CD9C5E444FA237D1A34CECA5CCE98D4E6CD6F4527A2ABD951EBB1C1F60D3DBDDF0D9E33F81BBE28338C815BD6AB1FB936FB79C38FD94783D25F8200E72453DA839BC82BBE8030DA21DF80D07E189B3964E5CE79A5C510F6A0EAFE02EFA70F613E777FF6AFD17DFFB26F5" />
+					<Bitmap Name="Aliases.Skype.Skype2" Data="61717A697000000001000000360400007801A5934F4AC34014C6BF8007F008BAF304D90A2E856E3C831BCFE04DDC74E9C2A5221EC185A0A0146AB1AD586DEDBF34CD34994C2689EFA50D741C0AA94EF8260993DFCBCBF74D8E6AEE0E8AE1D27C40DA5DC9C11E5DD158AD2F6F96738EFF1FA7C72EB6D1D9C961F17CF9E687DB4B24C1146A3E86F24750B321626F8078DA473CF982FCEE22FA6C217C6F40BC3DC16F3DDABCF030A83B86C2C605EAED059CEBC850D079B1F9856FB05C6B132F3E9A16AFC3A0321FF53B361F89CABC1CF52C3E9561D12FF75C4A8D9FF1EA2D0A0FD88752927CE5BCD6FD4FE3085777BEA1765710DF23EEDE90A46C2C5E49ECD78686B81EB3B839371453BEBFF94C2B83E55A1B79DA23169FEACABC9A4F2C3ECFD2EA7C30B3F99CDCA41A19F591E90459A2909227EC2B67A3295FDE239AF659226C9EFF816DB4FEFD658E7F39FF00D1F3F683" />
+					<Bitmap Name="Aliases.Skype.Window(&quot;Chrome_WidgetWin_1&quot;, &quot;&quot;, 1)" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.Skype.Window(&quot;Chrome_WidgetWin_1&quot;, &quot;&quot;, 1).Document(&quot;What&apos;s your birthdate?&quot;)" Data="61717A697000000001000000360400007801A5934F4AC34014C6BF8007F008BAF304D90A2E856E3C831BCFE04DDC74E9C2A5221EC185A0A0146AB1AD586DEDBF34CD34994C2689EFA50D741C0AA94EF8260993DFCBCBF74D8E6AEE0E8AE1D27C40DA5DC9C11E5DD158AD2F6F96738EFF1FA7C72EB6D1D9C961F17CF9E687DB4B24C1146A3E86F24750B321626F8078DA473CF982FCEE22FA6C217C6F40BC3DC16F3DDABCF030A83B86C2C605EAED059CEBC850D079B1F9856FB05C6B132F3E9A16AFC3A0321FF53B361F89CABC1CF52C3E9561D12FF75C4A8D9FF1EA2D0A0FD88752927CE5BCD6FD4FE3085777BEA1765710DF23EEDE90A46C2C5E49ECD78686B81EB3B839371453BEBFF94C2B83E55A1B79DA23169FEACABC9A4F2C3ECFD2EA7C30B3F99CDCA41A19F591E90459A2909227EC2B67A3295FDE239AF659226C9EFF816DB4FEFD658E7F39FF00D1F3F683" />
+					<Bitmap Name="Aliases.Skype_Install" Data="61717A697000000001000000360900007801DD948953535714876F568861095605C18ECB54EB56B580B1D605864A5510AB02EE48EA8220B8E08ABBB85B955AAC6C62141444020904304A1147447650641354AAB2CA2652AC2BF9F53E821333CEF807F4CE7CF79C73EF9CEFDDB92F2F764E6201E91E623A0FA798F5C02283684647CFBEA6F87C66B3D95C3E8F2310F0398606025E6F6321DFD444C8B51009795F9BF4E20E1409B8838D059C21467AAC21C67A64B8488F35DA488F8C35D427E30CF458633E37EAAE307E7DEA3710F51ED4774D48BBE93A294CD79ED3E0138E7EDE6761EA1D0EB32D71B0D8A184F93605CCB7C6A3FF2619CCBDCFBDE61A8806EA1A752B2E87CDD3E7730446C3AC9CFBAD3E838371E90848BC85C0E40C04A5DC46D8D54C48AFDF41645A0E6E56D623E7492B0A9EB44075BF06663E913018F4DD625DA36EC5EBF6737B197D6FBFCD6C7900F6C5A4C251E20167CFF5381E9F86E57EFEF0DC7D184189E958E6E38BA0D81478FBEDC5D5BC52F4F70C8768F4D4FDBA46DD8AC765F3E9F97B8926CE0B1D20398C6D114998B65802C7E56BE01F7D158B376C87FB963D0890A56281873796ADDB0CBFDFFE4460540286D37BEC3D7E7694AE515BB1E860FC021E5728B2597C7DC8327F6C0A8F836FC8156C0C93C14FAAC08E73F1D873418E03979438129584E3D1C988CAB887B4AAE7B0DA28451F1BB74CAD513763B3586C8D9F2334B6FDB5FCDBA5BBB021281AE2E90EF871F63C6CA4CFB15FBA020E122FEC3C1787DDD278F89F8FC7A1080562722A60BB3D027DA67955EB5AB5159BCD628F5AB8BFCAD223B8CB7265A8DACA2304D61EA1B05A15DCCDF8D561B05EC5AC0563FCEA50883DC320F60AC5041A7FF0A27B746DDC8A60F5584940DB08975DF7B4666D36745F7C96E5E5A7B0BEF20C62D9334C94D76052422DA628EB609B520F3B5503EC531B313DED3966A63761D6AD66CCBEDD823959AD70CE6D836BDE0B2C2C6CC7A463D218AD559B99CEDBB0D732FA6F88631E6372EC43D8C82A61277F00FB840ACC503EC0CCE42A38A8AAE1F0570D1C6E3677FB7FC96CC5DC6CEACFA1FE7CEA2F6A47DF31E2897D47DB4A86B9F8256AED84E80F183A7242542526C554C026B61C76B232D8C7956086BC18B314F7303BB1087395857049CE87ABAA18736F54636E467DB7DF859E7F7E413BA606C6DDFEC671BD6CCAA9CC36C7D88A8A4FFD6C0E972F3E9D5E3FE572296C634BF1536C31A6C7DD85A3FC2E9C148598935800E7C43CCC57666391320B4B92EFC02D2503EEAA2CB8A797C045F5A0CBE9A0AC61FEF596B76EF9C0C8F9DEDE1FFD1C1E5F387EF5C96CD90577E41F221A0E13141CF9081B65D14EA8A9CA455D75298A7EEF8382A304850CC70854FB0D318C7EF3294D6AAC2C0224A9B5B55CBE9E1EE3E7EA097B5B799D2EF12D78F536EDB2F3DBCA4082AA1E98FC71E408BC789281CECE7FD0D15C8DA70933517586A092C2C4AA2082DC3F0CE1165BACBE5003F89600D64B7C7C18375F686231D6F374B97B6647E7CE0A2053EE82DAB304B5E13D4839F8D05903F5FBD77859B807F5178D50779EA04E4A50CFC41EB2C206E0446153E7A96A605168521297CFE733FE41B3D68638A575BCF2BC0BECAD04B2C346A1FE02ED8DA0D0F83C7E3098D1517C100D91748DD270514BE3259A5364521B281BDEBF97842A141C1E8FC7B899D1CFD675996B0EE0530C1C7848CF7FD20C8D519A1E263646B1F0E1DF06BCEF788497B99EE82CF1C79BBA143446B3F0FC327D7E8C86E3F2A390DEAFABA3FFF16C8D593B3B4495D5337776E411901B608C47F47E98BEA62B34525A53C7E15D4B0ED45DEFA0FEF006AF9F44A0398EA05946A1B1466102D7531753B446DDCC5CFCB3CBE6D2AEAEE38F819B21C3DB8A4E5137D31B4FD0F21139CD155CB4C859685530B986D60402455E3026BB7979E95A75AB05E1B71E6C4D2D2993CCE0AF2B0B21280BA3E7A6BDAD89046DCA1E9268FC8417C90439775622A446AD1E32D6DA5AD7A85BE91B7FD5D7D8B47F7F168BB0A377921BE5F4F7514EDF6F3375BFB8AAA15DA58D4D4AF266AB44DFDF40243211080D0D756D5FAEE81BE26E5948F65F3B41CA724348DBB593A42CF60051251D2369917B886CFD02B2C5BC0FB1F8B2E5FFB1FB1F4917AC80" />
+					<Bitmap Name="Aliases.Skype_Install.Install_Window" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 1: Open Skype installer " />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;Skype_Installer&quot; tested application." TestedApp="Skype_Installer">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype_Install.Install_Window.Btn_Install" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Visible" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 2: Click on Install " />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Skype_Install.Install_Window.Btn_Install;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="18000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 3: Click on No Account Create one link" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;No account? Create one!&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 4: Click on Use you&#32;&#32;Email instead link" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;Use your email instead&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 5 : Enter eMail " />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Edit&quot;,&quot;New email&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="8" ValueType="6" ValueValue="sgokul0710@gmail.com" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 6 : Click Next" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;Next&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 7: Enter Password" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Edit&quot;,&quot;Create password&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Test@123" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 8: Click Next" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;Next&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 9: Enter first name and last name" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Edit&quot;,&quot;First name&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="8" ValueType="6" ValueValue="S" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Edit&quot;,&quot;Last name&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Gokul" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 10: Click Next" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;Next&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 11: Select Country/region" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;MenuButton&quot;,&quot;Country/region&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;India&quot;" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 12: Select D.O.B" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;MenuButton&quot;,&quot;Birth month&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;October&quot;" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;MenuButton&quot;,&quot;Birth day&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;9&quot;" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Spinbox&quot;,&quot;Birth year&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;1999&quot;" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+			<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+				<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Step 13: Click Next" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="FindChildM" Unit="Unit1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="PropArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;ObjectType&quot;,&quot;Caption&quot;)" />
+						<Parameter Name="ValuesArray" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="new Array(&quot;Button&quot;,&quot;Next&quot;)" />
+						<Parameter Name="PObject" DefVarType="12" DefValueType="0" DefValueValue="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Skype" />
+						<Parameter Name="Depth" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Click" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Keys" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="text" DefVarType="12" DefValueType="0" DefValueValue="0" VarType="257" ValueType="0" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+				<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{1BE250A8-DCD3-472F-A5D3-415871AE5B61}" />
+</Root>
